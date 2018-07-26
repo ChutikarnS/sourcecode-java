@@ -12,6 +12,7 @@ public class PrimeFactor {
             }
             primeNumber++;
         }
+        
         return result;
     }
 
